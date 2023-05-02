@@ -1,2 +1,4 @@
+add raw/EffectCommon.pac
 add raw/character/sonic.pac
+add raw/character/playercommon.pac
 add mod.ini
